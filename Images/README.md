@@ -27,6 +27,4 @@ If you run into any issues or have questions, feel free to contact Robby Mundia 
 *This project is licensed under the GPL (General Public License).*  
 Copyright (c) 2025 **Robby Mundia**
 
----
-
-Let me know if you need any edits or additions!
+ 

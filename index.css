@@ -1,0 +1,29 @@
+.intro {
+    font: normal 16px/1.5 'Arial', sans-serif;
+    color: #333;
+    background-color: antiquewhite;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 2em;
+    color: #2c3e50;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.images {
+    display: flex;
+    justify-content:left;
+    gap: 20px;
+    margin: 10px 0;
+    padding: 10px;
+}
+.image-container {
+    border-color: black;
+    border-style: solid;
+    background-color: antiquewhite;
+}

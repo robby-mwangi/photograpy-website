@@ -1,7 +1,3 @@
-
-
----
-
 # Photography-website  
 #### A photography website explaining the journey of young star Cole Palmer, April 2025  
 #### By **Robby Mundia**
